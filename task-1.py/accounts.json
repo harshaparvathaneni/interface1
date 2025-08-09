@@ -1,0 +1,14 @@
+{
+  "1001": {
+    "name": "Harsha",
+    "pin": "1234",
+    "balance": 50000.0,
+    "history": []
+  },
+  "1002": {
+    "name": "Ravi",
+    "pin": "4321",
+    "balance": 15000.0,
+    "history": []
+  }
+}
